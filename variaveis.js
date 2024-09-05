@@ -3,5 +3,5 @@ function somar() {
     var num2 = parseFloat(document.getElementById("numero2").value);
     var resultado = num1 + num2;
     
-    document.getElementById("resultado").innerText = "O resultado da soma é: " + resultado;
+    document.getElementById("resultado").innerText = resultado;
 }

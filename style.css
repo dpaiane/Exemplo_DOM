@@ -14,3 +14,13 @@ div{
     padding: 10px;
     margin: 10px;
 }
+button{
+    padding: 10px;
+    border-radius: 15px;
+}
+#resultado{
+    background-color: beige;
+    border:black;
+    border-radius: 15px;
+    padding: 15px;
+}
